@@ -16,7 +16,7 @@ Leveraging Vision-Centric Multi-Modal Expertise for 3D Object Detection. [NeurIP
 
 BEVSimDet: Simulated Multi-modal Distillation in Bird's-Eye View for Multi-view 3D Object Detection. [Arxiv 2023](https://arxiv.org/abs/2303.16818)
 
-X$^3$KD: Knowledge Distillation Across Modalities, Tasks and Stages for Multi-Camera 3D Object Detection. [CVPR 2023](https://arxiv.org/abs/2303.02203)
+X $^3$ KD: Knowledge Distillation Across Modalities, Tasks and Stages for Multi-Camera 3D Object Detection. [CVPR 2023](https://arxiv.org/abs/2303.02203)
 
 BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection. [ICLR 2023](https://arxiv.org/abs/2211.09386)
 
