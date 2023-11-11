@@ -5,7 +5,7 @@
   - [3D Object Detection](#different-forms-of-knowledge)
     - [Camera-only ](#Camera-only-Distillation)
     - [LiDAR-based ](#LiDAR-based-Distillation)
-    - [Fusion-based ](#knowledge-from-logits)
+
 
 
 ## Different Forms of Distillation
@@ -18,21 +18,23 @@
 
 3. Distilling Focal Knowledge From Imperfect Expert for 3D Object Detection. [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Zeng_Distilling_Focal_Knowledge_From_Imperfect_Expert_for_3D_Object_Detection_CVPR_2023_paper.html)
 
-4. X $^3$ KD: Knowledge Distillation Across Modalities, Tasks and Stages for Multi-Camera 3D Object Detection. [CVPR 2023](https://arxiv.org/abs/2303.02203)
+4. UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View. [CVPR 2023](https://arxiv.org/abs/2303.15083)
 
-5. BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection. [ICLR 2023](https://arxiv.org/abs/2211.09386)
+5. X $^3$ KD: Knowledge Distillation Across Modalities, Tasks and Stages for Multi-Camera 3D Object Detection. [CVPR 2023](https://arxiv.org/abs/2303.02203)
 
-6. BEV-LGKD: A Unified LiDAR-Guided Knowledge Distillation Framework for BEV 3D Object Detection.  [Arxiv 2022](https://arxiv.org/abs/2212.00623)
+6. BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection. [ICLR 2023](https://arxiv.org/abs/2211.09386)
 
-7. TiG-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning. [Arxiv 2022](https://arxiv.org/abs/2212.13979)
+7. BEV-LGKD: A Unified LiDAR-Guided Knowledge Distillation Framework for BEV 3D Object Detection.  [Arxiv 2022](https://arxiv.org/abs/2212.00623)
 
-8. Structured Knowledge Distillation Towards Efficient and Compact Multi-View 3D Detection. [Arxiv 2022](https://arxiv.org/abs/2211.08398)
+8. TiG-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning. [Arxiv 2022](https://arxiv.org/abs/2212.13979)
 
-9. Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection. [ECCV 2022](https://arxiv.org/abs/2211.07171)
+9. Structured Knowledge Distillation Towards Efficient and Compact Multi-View 3D Detection. [Arxiv 2022](https://arxiv.org/abs/2211.08398)
 
-10. Lidar Point Cloud Guided Monocular 3D Object Detection. [ECCV 2022](https://arxiv.org/abs/2104.09035)
+10. Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection. [ECCV 2022](https://arxiv.org/abs/2211.07171)
 
-11. LIGA-Stereo: Learning LiDAR Geometry Aware Representations for Stereo-based 3D Detector. [ICCV 2021](https://arxiv.org/abs/2108.08258)
+11. Lidar Point Cloud Guided Monocular 3D Object Detection. [ECCV 2022](https://arxiv.org/abs/2104.09035)
+
+12. LIGA-Stereo: Learning LiDAR Geometry Aware Representations for Stereo-based 3D Detector. [ICCV 2021](https://arxiv.org/abs/2108.08258)
 
 
 
