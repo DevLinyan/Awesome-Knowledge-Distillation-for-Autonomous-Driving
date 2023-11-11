@@ -2,13 +2,19 @@
 
 
 - [Autonomous Driving](#awesome-knowledge-distillation)
-  - [3D Object Detection](#different-forms-of-knowledge)
+  - [3D Object Detection](#3D-Object-Detection)
     - [Camera-only ](#Camera-only-Distillation)
     - [LiDAR-based ](#LiDAR-based-Distillation)
 
+  - [Segmentation](#Segmentation)
+    - [Semantic Segmentation](#Semantic-Segmentation)
+
+  - [Auto Labeling](#Auto-Labeling)
+    - [Unsupervised Labeling](#Unsupervised-Labeling)
 
 
-## Different Forms of Distillation
+
+## 3D Object Detection
 
 ### Camera-only Distillation
 
@@ -39,8 +45,6 @@
 
 
 
-
-
 ### LiDAR-based Distillation
 
 1. Representation Disparity-aware Distillation for 3D Object Detection. [ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Representation_Disparity-aware_Distillation_for_3D_Object_Detection_ICCV_2023_paper.html)
@@ -52,6 +56,28 @@
 4. Towards Efficient 3D Object Detection withKnowledge Distillation. [NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8625a8c2be8ba5197b7a14833dbea8ac-Abstract-Conference.html)
 
 5. LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection. [ECCV 2022](https://arxiv.org/abs/2203.14956)
+
+
+
+
+## Segmentation
+
+### Semantic Segmentation
+
+1. Segment Any Point Cloud Sequences by Distilling Vision Foundation Models. [NeurIPS 2023](https://arxiv.org/abs/2306.09347)
+
+2. Image-to-Lidar Self-Supervised Distillation for Autonomous Driving Data. [CVPR 2022](https://arxiv.org/abs/2203.16258)
+ 
+
+##  Auto Labeling
+
+### Unsupervised Labeling
+
+1. Unsupervised 3D Perception with 2D Vision-Language Distillation for Autonomous Driving. [ICCV 2023](https://arxiv.org/abs/2309.14491)
+
+
+
+
 
 
 ---
