@@ -7,10 +7,8 @@
     - [LiDAR-based ](#LiDAR-based-Distillation)
 
   - [Segmentation](#Segmentation)
-    - [Semantic Segmentation](#Semantic-Segmentation)
 
   - [Auto Labeling](#Auto-Labeling)
-    - [Unsupervised Labeling](#Unsupervised-Labeling)
 
 
 
@@ -64,7 +62,6 @@
 
 ## Segmentation
 
-### Semantic Segmentation
 
 1. Segment Any Point Cloud Sequences by Distilling Vision Foundation Models. [NeurIPS 2023](https://arxiv.org/abs/2306.09347) [[Official Code]](https://github.com/youquanl/Segment-Any-Point-Cloud)
 
@@ -74,7 +71,6 @@
 
 ##  Auto Labeling
 
-### Unsupervised Labeling
 
 1. Unsupervised 3D Perception with 2D Vision-Language Distillation for Autonomous Driving. [ICCV 2023](https://arxiv.org/abs/2309.14491)
 
