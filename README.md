@@ -58,6 +58,11 @@
 
 5. LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection. [ECCV 2022](https://arxiv.org/abs/2203.14956) [[Official Code]](https://github.com/weiyithu/LiDAR-Distillation)
 
+### Pretraining Distillation
+1. Geometric-aware Pretraining for Vision-centric 3D Object Detection. [Arxiv 2023](https://arxiv.org/abs/2304.03105)
+
+2. Towards Better 3D Knowledge Transfer via Masked Image Modeling for Multi-view 3D Understanding. [ICCV 2023](https://arxiv.org/abs/2303.11325)
+
 
 
 ## Segmentation
