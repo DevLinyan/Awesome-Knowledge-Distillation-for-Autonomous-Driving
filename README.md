@@ -87,6 +87,6 @@
 
 
 ---
-Note: All papers' pdf can be found and downloaded on [arXiv](https://arxiv.org/search/), [Bing](https://www.bing.com) or [Google](https://www.google.com).
+Note: All papers' pdf can be found and downloaded on [arXiv](https://arxiv.org/search/), [Google](https://www.google.com) or [Bing](https://www.bing.com).
 
 
