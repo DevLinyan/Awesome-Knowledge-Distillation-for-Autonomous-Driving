@@ -52,11 +52,12 @@
 
 3. PointDistiller: Structured Knowledge Distillation TowardsEfficient and Compact 3D Detection. [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_PointDistiller_Structured_Knowledge_Distillation_Towards_Efficient_and_Compact_3D_Detection_CVPR_2023_paper.html) [[Official Code]](https://github.com/RunpeiDong/PointDistiller)
 
+4. UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View. [CVPR 2023](https://arxiv.org/abs/2303.15083) [[Official Code]](https://github.com/megvii-research/CVPR2023-UniDistill)
 
-4. Towards Efficient 3D Object Detection withKnowledge Distillation. [NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8625a8c2be8ba5197b7a14833dbea8ac-Abstract-Conference.html) [[Official Code]](https://github.com/CVMI-Lab/SparseKD)
+5. Towards Efficient 3D Object Detection withKnowledge Distillation. [NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8625a8c2be8ba5197b7a14833dbea8ac-Abstract-Conference.html) [[Official Code]](https://github.com/CVMI-Lab/SparseKD)
 
 
-5. LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection. [ECCV 2022](https://arxiv.org/abs/2203.14956) [[Official Code]](https://github.com/weiyithu/LiDAR-Distillation)
+6. LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection. [ECCV 2022](https://arxiv.org/abs/2203.14956) [[Official Code]](https://github.com/weiyithu/LiDAR-Distillation)
 
 ### Pretraining Distillation
 1. Geometric-aware Pretraining for Vision-centric 3D Object Detection. [Arxiv 2023](https://arxiv.org/abs/2304.03105) [[Official Code]](https://github.com/OpenDriveLab/Birds-eye-view-Perception/tree/master/nuScenes_playground)
